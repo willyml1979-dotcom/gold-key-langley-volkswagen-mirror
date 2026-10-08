@@ -1,6 +1,6 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-09-26T08:36:08",
+  "generated_at": "2026-10-08T14:37:19",
   "vehicle_count": 116,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,7 +18,9 @@
       "year": 2011,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2011 Jeep Grand Cherokee ",
@@ -33,13 +35,16 @@
       "year": 2011,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Jetta Comfortline 2.5 6spin Surrey",
       "vin": "3VWDX7AJ4BM367526",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 2.5 6sp",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/097bac4be49a.html",
       "source_url": "https://www.goldkeyvw.ca/used/2011-Volkswagen-Jetta-id14156179.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2011-Volkswagen-Jetta-id14156179.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -47,8 +52,10 @@
       "odometer_km": 116524,
       "year": 2011,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline 2.5 6spin Surrey",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Jetta ",
@@ -64,7 +71,9 @@
       "year": 2011,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Jetta ",
@@ -80,7 +89,9 @@
       "year": 2011,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2012 Audi Q5 ",
@@ -95,7 +106,9 @@
       "year": 2012,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2012 Audi Q5 ",
@@ -110,13 +123,16 @@
       "year": 2012,
       "make": "Audi",
       "model": "Q5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle Comfortline 2.5l 6spin Surrey",
       "vin": "3VWJX7AT2CM627489",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 6sp",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/89411e918249.html",
       "source_url": "https://www.goldkeyvw.ca/used/2012-Volkswagen-Beetle-id14352053.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2012-Volkswagen-Beetle-id14352053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -124,8 +140,10 @@
       "odometer_km": 122418,
       "year": 2012,
       "make": "Volkswagen",
-      "model": "Beetle Comfortline 2.5l 6spin Surrey",
-      "condition": "used"
+      "model": "Beetle",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle ",
@@ -141,7 +159,9 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle ",
@@ -157,7 +177,9 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2014 Ford Escape ",
@@ -172,7 +194,9 @@
       "year": 2014,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2014 Ford Escape ",
@@ -187,7 +211,9 @@
       "year": 2014,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Patriot ",
@@ -202,7 +228,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Patriot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Patriot ",
@@ -217,7 +245,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Patriot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru WRX ",
@@ -232,7 +262,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru WRX ",
@@ -247,7 +279,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota RAV4 ",
@@ -262,7 +296,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota RAV4 ",
@@ -277,7 +313,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -292,7 +330,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -307,7 +347,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Grand Cherokee ",
@@ -322,7 +364,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte ",
@@ -337,7 +381,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte ",
@@ -352,7 +398,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 ",
@@ -367,7 +415,9 @@
       "year": 2019,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 ",
@@ -382,7 +432,9 @@
       "year": 2019,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 GMC Sierra 1500 ",
@@ -397,7 +449,9 @@
       "year": 2020,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 GMC Sierra 1500 ",
@@ -412,7 +466,9 @@
       "year": 2020,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Niro ",
@@ -427,7 +483,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Niro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Soul ",
@@ -443,7 +501,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage ",
@@ -458,7 +518,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Niro ",
@@ -473,7 +535,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Niro",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Soul ",
@@ -489,7 +553,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Soul",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage ",
@@ -504,13 +570,16 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan Iq Drive 2.0t 8sp Atin Surrey",
       "vin": "3VV2B7AX6LM102848",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Iq Drive 2.0t 8sp At",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/c41a9480c153.html",
       "source_url": "https://www.goldkeyvw.ca/used/2020-Volkswagen-Tiguan-id14302119.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2020-Volkswagen-Tiguan-id14302119.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -518,8 +587,10 @@
       "odometer_km": 84883,
       "year": 2020,
       "make": "Volkswagen",
-      "model": "Tiguan Iq Drive 2.0t 8sp Atin Surrey",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan ",
@@ -535,7 +606,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan ",
@@ -551,7 +624,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Volvo XC60 ",
@@ -566,7 +641,9 @@
       "year": 2020,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2020 Volvo XC60 ",
@@ -581,7 +658,9 @@
       "year": 2020,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Equinox ",
@@ -596,7 +675,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Equinox ",
@@ -611,7 +692,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -626,7 +709,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -641,13 +726,16 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta Highline 1.4t 8sp Atin Surrey",
       "vin": "3VWE57BU8MM072371",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highline 1.4t 8sp At",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/2104baf24247.html",
       "source_url": "https://www.goldkeyvw.ca/used/2021-Volkswagen-Jetta-id13866827.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2021-Volkswagen-Jetta-id13866827.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -655,8 +743,10 @@
       "odometer_km": 40107,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Jetta Highline 1.4t 8sp Atin Surrey",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta ",
@@ -672,7 +762,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta ",
@@ -688,7 +780,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -703,7 +797,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -718,13 +814,16 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan Comfortline R-Linein Surrey",
       "vin": "3VV8B7AX2PM074921",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline R-Line",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/cad2227f9012.html",
       "source_url": "https://www.goldkeyvw.ca/used/2023-Volkswagen-Tiguan-id14356982.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2023-Volkswagen-Tiguan-id14356982.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -732,8 +831,10 @@
       "odometer_km": 76985,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Linein Surrey",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -749,7 +850,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -765,13 +868,16 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Comfortline 1.5t 8spin Surrey",
       "vin": "3VVSX7B2XRM034826",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 1.5t 8sp",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/844bd6093d5b.html",
       "source_url": "https://www.goldkeyvw.ca/used/2024-Volkswagen-Taos-id14027264.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2024-Volkswagen-Taos-id14027264.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -779,8 +885,10 @@
       "odometer_km": 50000,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 1.5t 8spin Surrey",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -795,13 +903,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan Comfortline 2.0t 8spin Surrey",
       "vin": "3VVMB7AX9RM068860",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 2.0t 8sp",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/34b15504a714.html",
       "source_url": "https://www.goldkeyvw.ca/used/2024-Volkswagen-Tiguan-id13805147.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2024-Volkswagen-Tiguan-id13805147.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -809,8 +920,10 @@
       "odometer_km": 31354,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline 2.0t 8spin Surrey",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -825,13 +938,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan Trendline 2.0t 8spin Surrey",
       "vin": "3VVFB7AX0RM023055",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline 2.0t 8sp",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/134828a12759.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2024-Volkswagen-Tiguan-id14289788.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2024-Volkswagen-Tiguan-id14289788.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -839,8 +955,10 @@
       "odometer_km": 50043,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 2.0t 8spin Surrey",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -855,7 +973,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -870,13 +990,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B2XSM045383",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/5ef0a0eac0b6.html",
       "source_url": "https://www.goldkeyvw.ca/used/2025-Volkswagen-Taos-id14429751.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2025-Volkswagen-Taos-id14429751.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -884,8 +1007,10 @@
       "odometer_km": 48931,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4motionin Surrey",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -901,63 +1026,77 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B23SM017926",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db48edefbb4b.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11872269.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11872269.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:42:07",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4motionin Surrey",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B22SM024026",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/40cb13ab4d59.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11908426.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11908426.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:42:16",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4motionin Surrey",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B29SM024489",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/9d9c908ba57d.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11916034.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Taos-id11916034.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:33:11",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortline 4motionin Surrey",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendline 4motionin Surrey",
       "vin": "3VVBR7RM6SM042512",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/48810b3c33f1.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Tiguan-id12637819.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2025-Volkswagen-Tiguan-id12637819.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:33:22",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline 4motionin Surrey",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -973,7 +1112,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -988,7 +1129,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -1004,12 +1147,15 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTIin Surrey",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTI",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/7fb0cf9d1428.html",
       "source_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Golf_GTI.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Golf_GTI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1018,8 +1164,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTIin Surrey",
-      "condition": "used"
+      "model": "Golf",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -1035,7 +1183,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -1051,7 +1201,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI ",
@@ -1067,7 +1219,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -1083,7 +1237,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1099,13 +1255,16 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
       "vin": "3VWCW7BU7TM028851",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/8ae7ed7c2cd5.html",
       "source_url": "https://www.goldkeyvw.ca/used/2026-Volkswagen-Jetta-id14423850.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2026-Volkswagen-Jetta-id14423850.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1113,8 +1272,10 @@
       "odometer_km": 9850,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline Autoin Surrey",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -1130,13 +1291,16 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Linein Surrey",
       "vin": "3VVGR7RM3TM037789",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline R-Line",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/09d5d260ac4c.html",
       "source_url": "https://www.goldkeyvw.ca/used/2026-Volkswagen-Tiguan-id14163963.html",
       "dealer_url": "https://www.goldkeyvw.ca/used/2026-Volkswagen-Tiguan-id14163963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1144,8 +1308,10 @@
       "odometer_km": 16000,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Linein Surrey",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1161,7 +1327,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -1176,7 +1344,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -1192,12 +1362,15 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTIin Surrey",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTI",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/7fb0cf9d1428.html",
       "source_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Golf_GTI.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/2026-Volkswagen-Golf_GTI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1206,8 +1379,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTIin Surrey",
-      "condition": "new"
+      "model": "Golf",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -1223,7 +1398,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -1239,7 +1416,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI ",
@@ -1255,7 +1434,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -1271,7 +1452,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1287,133 +1470,162 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEW7BU3TM000540",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/94859d78de38.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852590.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852590.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:30:06",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEW7BU1TM001038",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/10ac4e1fa5bc.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852592.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id12852592.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:30:17",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
       "vin": "3VWCW7BU2TM011486",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/20c5c77abf5a.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13049765.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13049765.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:30:30",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEW7BU7TM032150",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8c7e0abbf149.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13336126.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13336126.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:30:43",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEW7BU7TM033346",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/33723721ba0b.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13437036.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13437036.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:31:11",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
       "vin": "3VWCW7BU5TM064876",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db44d3bba48a.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13970132.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13970132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:32:07",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
       "vin": "3VWCW7BU6TM066328",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline Auto",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/afe83fc7a24d.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13976129.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Jetta-id13976129.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:32:19",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline Autoin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendline 4motionin Surrey",
       "vin": "3VV8C7B22TM045607",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/3e05eac03376.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Taos-id13511729.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Taos-id13511729.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:33:33",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendline 4motionin Surrey",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendline 4motionin Surrey",
       "vin": "3VV8C7B24TM047097",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline 4motion",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/f84f3141f559.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Taos-id13914547.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2026-Volkswagen-Taos-id13914547.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:33:52",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendline 4motionin Surrey",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -1429,7 +1641,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1445,7 +1659,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Surrey",
@@ -1460,7 +1676,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLI ",
@@ -1476,7 +1694,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -1492,7 +1712,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -1508,7 +1730,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Surrey",
@@ -1523,7 +1747,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Surrey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLI ",
@@ -1539,7 +1765,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -1555,7 +1783,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -1571,189 +1801,230 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU6VM000375",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/2677b80ecae5.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289790.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289790.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:32:36",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU0VM000727",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/99259557aa1c.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289792.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289792.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:34:09",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU9VM003755",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/3a2b1fcdc4b3.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289794.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14289794.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:32:54",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU6VM003129",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/483c3ed84519.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324113.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:33:05",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU4VM003727",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b0d740639c6d.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324114.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:34:00",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU9VM004811",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/17d1f85c0b28.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324115.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14324115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:34:17",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU6VM004278",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/4d259a96208f.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331358.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:34:56",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU1VM004558",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b4c63baee462.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331359.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:34:20",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWEW7BU7VM003704",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/c1936a392b8a.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331360.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:35:52",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU2VM004651",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/1acd455e38ee.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331361.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14331361.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:36:04",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU5VM004675",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/d1d36acf1ed9.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14344215.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14344215.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:34:35",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU2VM007338",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/74a5567e971e.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14368370.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14368370.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:34:45",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU2VM007968",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/967911f8a745.html",
       "source_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14395955.html",
       "dealer_url": "https://www.goldkeyvw.ca/new/inventory/2027-Volkswagen-Jetta-id14395955.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:34:56",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Sedanin Surrey",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     }
   ]
 }
