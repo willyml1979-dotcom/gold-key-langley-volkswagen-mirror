@@ -1,10 +1,28 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-10-25T20:46:08",
+  "generated_at": "2026-10-25T20:50:49",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2024 Volkswagen Tiguan Trendline 2.0t 8spin Surrey",
+      "vin": "3VVFB7AX0RM023055",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/134828a12759.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B23SM017926",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db48edefbb4b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B22SM024026",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/40cb13ab4d59.html",
+      "condition": "new"
+    },
     {
       "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B29SM024489",
@@ -15,6 +33,30 @@
       "name": "New 2025 Volkswagen Tiguan Trendline 4motionin Surrey",
       "vin": "3VVBR7RM6SM042512",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/48810b3c33f1.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Surrey",
+      "vin": "3VWEW7BU3TM000540",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/94859d78de38.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Surrey",
+      "vin": "3VWEW7BU1TM001038",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/10ac4e1fa5bc.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Surrey",
+      "vin": "3VWCW7BU2TM011486",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/20c5c77abf5a.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Surrey",
+      "vin": "3VWEW7BU7TM032150",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8c7e0abbf149.html",
       "condition": "new"
     },
     {
@@ -662,15 +704,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Tiguan Trendline 2.0t 8spin Surrey",
-      "vin": "3VVFB7AX0RM023055",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/134828a12759.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
       "name": "2024 Volkswagen Taos ",
       "vin": "3VVUX7B27RM121558",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/84cc9f1427e2.html",
@@ -691,24 +724,6 @@
       "condition": "new",
       "price": 34754.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
-      "vin": "3VVUC7B23SM017926",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db48edefbb4b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new"
-    },
-    {
-      "name": "2025 Volkswagen Taos Comfortline 4motionin Surrey",
-      "vin": "3VVUC7B22SM024026",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/40cb13ab4d59.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -839,42 +854,6 @@
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
-      "vin": "3VWEW7BU3TM000540",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/94859d78de38.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
-      "vin": "3VWEW7BU1TM001038",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/10ac4e1fa5bc.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
-      "vin": "3VWCW7BU2TM011486",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/20c5c77abf5a.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
-      "vin": "3VWEW7BU7TM032150",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8c7e0abbf149.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEW7BU7TM033346",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/33723721ba0b.html",
       "year": 2026,
@@ -915,13 +894,13 @@
     },
     {
       "name": "2027 Volkswagen Atlas ",
-      "vin": "1V2F53DHXVC501107",
+      "vin": "1V2D53DHXVC502264",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/e6d82bbfcd52.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "new",
-      "price": 68380.0,
+      "price": 65182.0,
       "price_currency": "CAD"
     },
     {
