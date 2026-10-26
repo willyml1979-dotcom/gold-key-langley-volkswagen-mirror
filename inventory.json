@@ -1,6 +1,6 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-10-26T05:39:18",
+  "generated_at": "2026-10-26T05:44:20",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -60,6 +60,18 @@
       "condition": "new"
     },
     {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Surrey",
+      "vin": "3VWEW7BU7TM033346",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/33723721ba0b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline Autoin Surrey",
+      "vin": "3VWCW7BU5TM064876",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db44d3bba48a.html",
+      "condition": "new"
+    },
+    {
       "name": "New 2026 Volkswagen Taos Trendline 4motionin Surrey",
       "vin": "3VV8C7B22TM045607",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/3e05eac03376.html",
@@ -73,8 +85,38 @@
     },
     {
       "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU6VM000375",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/2677b80ecae5.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU0VM000727",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/99259557aa1c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU9VM003755",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/3a2b1fcdc4b3.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU6VM003129",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/483c3ed84519.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU4VM003727",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b0d740639c6d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU9VM004811",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/17d1f85c0b28.html",
       "condition": "new"
     },
     {
@@ -853,24 +895,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Jetta Comfortline Autoin Surrey",
-      "vin": "3VWEW7BU7TM033346",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/33723721ba0b.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline Autoin Surrey",
-      "vin": "3VWCW7BU5TM064876",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/db44d3bba48a.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
       "name": "2026 Volkswagen Jetta ",
       "vin": "3VWCW7BUXTM009713",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/7ada8d1fbf1c.html",
@@ -935,51 +959,6 @@
       "condition": "new",
       "price": 39605.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
-      "vin": "3VWSW7BU6VM000375",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/2677b80ecae5.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
-      "vin": "3VWSW7BU9VM003755",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/3a2b1fcdc4b3.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
-      "vin": "3VWSW7BU6VM003129",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/483c3ed84519.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
-      "vin": "3VWSW7BU4VM003727",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b0d740639c6d.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline Sedanin Surrey",
-      "vin": "3VWSW7BU9VM004811",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/17d1f85c0b28.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
     }
   ]
 }
