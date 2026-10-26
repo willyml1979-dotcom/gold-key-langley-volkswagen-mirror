@@ -1,6 +1,6 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-10-25T20:50:49",
+  "generated_at": "2026-10-26T05:39:18",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -133,7 +133,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 13453.0,
+      "price": 12754.0,
       "price_currency": "CAD"
     },
     {
