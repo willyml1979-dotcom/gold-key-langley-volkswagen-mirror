@@ -1,7 +1,7 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-11-17T01:53:55",
-  "vehicle_count": 91,
+  "generated_at": "2026-11-17T02:10:03",
+  "vehicle_count": 95,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -90,6 +90,30 @@
       "condition": "used"
     },
     {
+      "name": "Jeep Grand Cherokee 2011 for salein Surrey",
+      "vin": "1J4RR5GG0BC546855",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b82b091f8993.html",
+      "condition": "new"
+    },
+    {
+      "name": "Volkswagen Jetta 2011 for salein Surrey",
+      "vin": "3VWDX7AJ4BM367526",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b09ea22986fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "Ford Escape 2014 for salein Surrey",
+      "vin": "1FMCU9GXXEUB02703",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/03dadf06f437.html",
+      "condition": "new"
+    },
+    {
+      "name": "Honda Civic 2019 for salein Surrey",
+      "vin": "2HGFC2F81KH024270",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8a7a5b5c1e3e.html",
+      "condition": "new"
+    },
+    {
       "name": "2011 Jeep Grand Cherokee ",
       "vin": "1J4RR5GG0BC546855",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/b82b091f8993.html",
@@ -98,17 +122,6 @@
       "model": "Grand Cherokee",
       "condition": "used",
       "price": 12754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Jeep Grand Cherokee ",
-      "vin": "1J4RR5GG0BC546855",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b82b091f8993.html",
-      "year": 2011,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 13453.0,
       "price_currency": "CAD"
     },
     {
@@ -121,28 +134,6 @@
       "condition": "used"
     },
     {
-      "name": "2011 Volkswagen Jetta ",
-      "vin": "3VWDX7AJ4BM367526",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b09ea22986fe.html",
-      "year": 2011,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 10754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Audi Q5 ",
-      "vin": "WA1LKCFP5CA085844",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/5a9d5a357a80.html",
-      "year": 2012,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "new",
-      "price": 13754.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 Ford Escape ",
       "vin": "1FMCU9GXXEUB02703",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/03dadf06f437.html",
@@ -151,28 +142,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 11754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Ford Escape ",
-      "vin": "1FMCU9GXXEUB02703",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/03dadf06f437.html",
-      "year": 2014,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 11754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota RAV4 ",
-      "vin": "2T3RFREV4JW698978",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/5eeedad26c67.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 28754.0,
       "price_currency": "CAD"
     },
     {
@@ -192,17 +161,6 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 22443.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Civic ",
-      "vin": "2HGFC2F81KH024270",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8a7a5b5c1e3e.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
       "price": 22443.0,
       "price_currency": "CAD"
     },
@@ -395,6 +353,15 @@
       "condition": "used"
     },
     {
+      "name": "New 2024 Volkswagen Taos Comfortline 1.5t 7spin Surrey",
+      "vin": "3VVLX7B2XRM086624",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/1ca1e0e35e8d.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
       "name": "New 2024 Volkswagen Tiguan Trendline 2.0t 8spin Surrey",
       "vin": "3VVFB7AX0RM023055",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/134828a12759.html",
@@ -463,8 +430,53 @@
     },
     {
       "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B27SM025866",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/831cc943c2a7.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B27SM025866",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/380071a3d0cc.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
       "vin": "3VVUC7B29SM024489",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/9d9c908ba57d.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B2XSM027269",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/dff4110cb52c.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVUC7B28SM028310",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/064dbdcde438.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Highline 4motionin Surrey",
+      "vin": "3VV4C7B25SM068375",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/756c254848be.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
