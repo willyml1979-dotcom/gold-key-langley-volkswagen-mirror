@@ -7,7 +7,7 @@ Gold Key Langley Volkswagen is a  dealership in Langley. This site is an AI-read
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/ (about 87 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/ (about 86 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/llms.txt

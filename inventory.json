@@ -1,7 +1,7 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-11-18T15:51:53",
-  "vehicle_count": 87,
+  "generated_at": "2026-11-18T15:56:22",
+  "vehicle_count": 86,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -364,17 +364,6 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VV8C7B23SM049924",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/7c1af4147d51.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 34852.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Volkswagen Taos Highline 4motionin Surrey",
