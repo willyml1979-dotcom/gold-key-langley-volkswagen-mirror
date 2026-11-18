@@ -1,14 +1,26 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-11-17T02:10:03",
-  "vehicle_count": 95,
+  "generated_at": "2026-11-17T21:45:28",
+  "vehicle_count": 96,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
+      "name": "Jeep Grand Cherokee 2011 for salein Surrey",
+      "vin": "1J4RR5GG0BC546855",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/b82b091f8993.html",
+      "condition": "used"
+    },
+    {
       "name": "Volkswagen Jetta 2011 for salein Surrey",
       "vin": "3VWDX7AJ4BM367526",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/b09ea22986fe.html",
+      "condition": "used"
+    },
+    {
+      "name": "Ford Escape 2014 for salein Surrey",
+      "vin": "1FMCU9GXXEUB02703",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/03dadf06f437.html",
       "condition": "used"
     },
     {
@@ -33,6 +45,12 @@
       "name": "Volkswagen Tiguan 2018 for salein Surrey",
       "vin": "3VV4B7AXXJM075756",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/d8d34609bf84.html",
+      "condition": "used"
+    },
+    {
+      "name": "Honda Civic 2019 for salein Surrey",
+      "vin": "2HGFC2F81KH024270",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/8a7a5b5c1e3e.html",
       "condition": "used"
     },
     {
@@ -114,17 +132,6 @@
       "condition": "new"
     },
     {
-      "name": "2011 Jeep Grand Cherokee ",
-      "vin": "1J4RR5GG0BC546855",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/b82b091f8993.html",
-      "year": 2011,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 12754.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Volkswagen Jetta Comfortline 2.5 6spin Surrey",
       "vin": "3VWDX7AJ4BM367526",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/097bac4be49a.html",
@@ -134,17 +141,6 @@
       "condition": "used"
     },
     {
-      "name": "2014 Ford Escape ",
-      "vin": "1FMCU9GXXEUB02703",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/03dadf06f437.html",
-      "year": 2014,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 11754.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Volkswagen Tiguan Highline 2.0t 8sp Atin Surrey",
       "vin": "3VV4B7AXXJM075756",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/35b1c0cff729.html",
@@ -152,17 +148,6 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used"
-    },
-    {
-      "name": "2019 Honda Civic ",
-      "vin": "2HGFC2F81KH024270",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/8a7a5b5c1e3e.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 22443.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2019 Kia Forte ",
@@ -391,6 +376,15 @@
       "condition": "new",
       "price": 34754.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Golf R DSGin Surrey",
+      "vin": "WVWCB7CD1SW240771",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/fb21fc1054b3.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Golf R",
+      "condition": "used"
     },
     {
       "name": "2025 Volkswagen Taos Trendline 4motionin Surrey",
