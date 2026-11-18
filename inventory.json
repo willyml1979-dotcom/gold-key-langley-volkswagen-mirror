@@ -1,7 +1,7 @@
 {
   "dealership": "Gold Key Langley Volkswagen",
-  "generated_at": "2026-11-17T21:45:28",
-  "vehicle_count": 96,
+  "generated_at": "2026-11-17T21:48:35",
+  "vehicle_count": 89,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -132,6 +132,42 @@
       "condition": "new"
     },
     {
+      "name": "Kia Forte 2019 for salein Surrey",
+      "vin": "3KPF54AD8KE006546",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/a78298b2a1ce.html",
+      "condition": "new"
+    },
+    {
+      "name": "Mazda CX-5 2019 for salein Surrey",
+      "vin": "JM3KFBDM9K0500894",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/593914aa2c80.html",
+      "condition": "new"
+    },
+    {
+      "name": "RAM 1500 2021 for salein Surrey",
+      "vin": "1C6RR7LT4MS511109",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b60ebfef9a01.html",
+      "condition": "new"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein Surrey",
+      "vin": "3VVFB7AXXPM086578",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/c2ef02035c28.html",
+      "condition": "new"
+    },
+    {
+      "name": "Volkswagen Taos 2024 for salein Surrey",
+      "vin": "3VVSX7B2XRM034826",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/84cc9f1427e2.html",
+      "condition": "new"
+    },
+    {
+      "name": "Volkswagen Tiguan 2024 for salein Surrey",
+      "vin": "3VVMB7AX9RM068860",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8a8e57cd16be.html",
+      "condition": "new"
+    },
+    {
       "name": "2011 Volkswagen Jetta Comfortline 2.5 6spin Surrey",
       "vin": "3VWDX7AJ4BM367526",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/097bac4be49a.html",
@@ -150,138 +186,6 @@
       "condition": "used"
     },
     {
-      "name": "2019 Kia Forte ",
-      "vin": "3KPF54AD8KE006546",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/a78298b2a1ce.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "new",
-      "price": 14744.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Mazda CX-5 ",
-      "vin": "JM3KFBDM9K0500894",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/593914aa2c80.html",
-      "year": 2019,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 27443.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 GMC Sierra 1500 ",
-      "vin": "1GTU9FET7LZ362579",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/44de9b200f79.html",
-      "year": 2020,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 38754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Niro ",
-      "vin": "KNDCC3LC2L5424640",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/eb0945363022.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Niro",
-      "condition": "new",
-      "price": 759.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Soul ",
-      "vin": "KNDJ33AU8L7046587",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/7538c1cefbe6.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "new",
-      "price": 14754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Sportage ",
-      "vin": "KNDPNCAC7L7665919",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/2b7e9f6e47be.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 18754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX6LM102848",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/e6a2cc35d4e1.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 24754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Volvo XC60 ",
-      "vin": "LYVBR0DM3LB594120",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/a6af9de5ebf8.html",
-      "year": 2020,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "new",
-      "price": 37953.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Equinox ",
-      "vin": "2GNAXUEV5M6166014",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/e8d64dbad6fe.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new",
-      "price": 18754.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 ",
-      "vin": "1C6RR7LT4MS511109",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/b60ebfef9a01.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 34443.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Jetta ",
-      "vin": "3VWE57BU8MM072371",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/7b5680f95a27.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 23744.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Grand Cherokee ",
-      "vin": "1C4RJKETXP8707749",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/ca592d68c2e6.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 60744.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Volkswagen Golf R 2.0 T 20th Annivin Surrey",
       "vin": "WVWLB7CD4PW183473",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/454bad448717.html",
@@ -298,17 +202,6 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VVFB7AXXPM086578",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/c2ef02035c28.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 27754.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2024 Volkswagen Atlas Cross Sport Execline 2.0 Tsiin Surrey",
@@ -354,28 +247,6 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVUX7B27RM121558",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/84cc9f1427e2.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 34297.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VVMB7AX9RM068860",
-      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/8a8e57cd16be.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 34754.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2025 Volkswagen Golf R DSGin Surrey",
@@ -471,6 +342,15 @@
       "name": "New 2025 Volkswagen Taos Highline 4motionin Surrey",
       "vin": "3VV4C7B25SM068375",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/756c254848be.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortline 4motionin Surrey",
+      "vin": "3VVVC7B27SM080726",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/cdfd7a5e7b8f.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
@@ -860,6 +740,15 @@
       "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
       "vin": "3VWSW7BU3VM013858",
       "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/520eea9ebcb2.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Surrey",
+      "vin": "3VWSW7BU4VM020236",
+      "url": "https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/new/752c5f72dcb8.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
