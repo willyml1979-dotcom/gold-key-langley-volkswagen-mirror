@@ -1,6 +1,6 @@
 # Gold Key Langley Volkswagen
 
- dealership in Langley. AI-readable inventory mirror, about 89 vehicles.
+ dealership in Langley. AI-readable inventory mirror, about 87 vehicles.
 
 - Official website: https://www.goldkeyvw.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/gold-key-langley-volkswagen-mirror/used/
